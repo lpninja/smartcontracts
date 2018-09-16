@@ -1,4 +1,5 @@
 pragma solidity ^0.4.19;
+#you can use this on remix
 
 contract Wallet {
     address public farmer1 = 0xca35b7d915458ef540ade6068dfe2f44e8fa733c;
