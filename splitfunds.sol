@@ -1,4 +1,5 @@
 pragma solidity ^0.4.19;
+#you can test this out on remix
 
 contract Dividends {
     address public addr1;
