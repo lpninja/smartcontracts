@@ -1,6 +1,6 @@
 pragma solidity 0.4.19;
-#comment
-// WARNING: not for production
+
+// WARNING: not for production code
 // WARNING: uint overflows without errors
 contract CoffeeCoin {
     mapping(address => uint) public wallet;
