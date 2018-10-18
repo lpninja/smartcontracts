@@ -1,3 +1,5 @@
+
+#!/usr/bin/env solidity
 pragma solidity 0.4.19;
 
 // WARNING: not for production
