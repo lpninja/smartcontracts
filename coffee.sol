@@ -1,5 +1,5 @@
 pragma solidity 0.4.19;
-
+#comment
 // WARNING: not for production
 // WARNING: uint overflows without errors
 contract CoffeeCoin {
