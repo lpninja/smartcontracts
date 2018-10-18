@@ -1,0 +1,7 @@
+# Basic .gitattributes for a solidity repo.
+
+# Source files
+# ============
+*.sol linguist-language=Solidity
+
+# (among others).
