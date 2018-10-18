@@ -1,5 +1,6 @@
 pragma solidity ^0.4.19;
-#you can test this out on remix, comment
+// WARNING: not for production code
+// WARNING: uint overflows without errors
 
 contract Wallet {
     address public farmer1 = 0xca35b7d915458ef540ade6068dfe2f44e8fa733c;
