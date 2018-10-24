@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 // WARNING: not for production code
-// WARNING: uint overflows without errors
+// WARNING: uint overflows without errors and not battle tested
 
 contract Dividends {
     address public addr1;
