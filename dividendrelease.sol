@@ -1,4 +1,4 @@
-pragma solidity ^0.4.19;
+pragma solidity ^0.8.3;
 // WARNING: not for production code
 // WARNING: uint overflows without errors and not battle tested yet.
 
